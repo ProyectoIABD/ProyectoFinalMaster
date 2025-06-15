@@ -501,3 +501,18 @@ descripcion,categoria
 "El vehículo mantenimiento reciente y funciona perfectamente, además carrocería sin abolladuras.",bueno
 "Todo funciona correctamente, incluyendo cristales impecables, mantenimiento reciente, y luces completamente operativas.",bueno
 "Está en excelente estado: motor suave, funciona perfectamente y mantenimiento reciente.",bueno
+"Tiene las ventanas rotas y el motor no arranca",malo
+"El vehículo funciona correctamente",bueno
+"El vehículo tiene arañazos",neutral
+"No prende, hace ruidos raros al intentar arrancar, como si algo estuviera suelto por dentro",malo
+"Todo parece bien, aunque a veces el tablero enciende luces sin razón",neutral
+"Motor impecable, sin fallos aparentes, aunque no he revisado los frenos a fondo",neutral
+"Tiene una abolladura en la parte trasera, pero el coche arranca sin problemas y se conduce bien",bueno
+"Al acelerar, emite un sonido extraño como si raspara algo en el interior del capó",malo
+"El coche está perfecto, sin rayones, sin fallos, como recién salido del concesionario",bueno
+"Funciona, pero hay un ligero olor a quemado cuando se calienta demasiado, no siempre",malo
+"Todo bien salvo que el aire acondicionado no enfría y hace un ruido al encenderlo",neutral
+"Tiene problemas eléctricos: las luces internas no encienden y el cierre centralizado falla",neutral
+"La batería es nueva, pero igual cuesta que encienda, sobre todo por las mañanas",malo
+"El motor hace un sonido raro solo cuando giras el volante al máximo",malo
+"Parece estar bien, aunque el dueño anterior mencionó que a veces no pasaba bien los cambios",malo
