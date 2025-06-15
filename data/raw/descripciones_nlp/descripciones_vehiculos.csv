@@ -1,0 +1,503 @@
+descripcion,categoria
+"El vehículo escape roto, además neumáticos lisos y frenos desgastados.",malo
+"El vehículo motor con fallas, además parabrisas roto y fuga de aceite.",malo
+"Todo funciona correctamente, incluyendo aire acondicionado funcional, sin ruidos extraños, y cristales impecables.",bueno
+"El vehículo pintura impecable y interior limpio, además motor suave.",bueno
+"Todo funciona correctamente, incluyendo carrocería sin abolladuras, aire acondicionado funcional, y neumáticos nuevos.",bueno
+"Está en excelente estado: mantenimiento reciente, cristales impecables y sin ruidos extraños.",bueno
+"Está en excelente estado: neumáticos nuevos, cristales impecables y pintura impecable.",bueno
+"El vehículo funciona perfectamente y sin ruidos extraños, además frenos en excelente estado.",bueno
+"Todo funciona correctamente, incluyendo cristales impecables, carrocería sin abolladuras, y pintura impecable.",bueno
+"El vehículo aire acondicionado funcional y carrocería sin abolladuras, además neumáticos nuevos.",bueno
+"Todo funciona correctamente, incluyendo luces completamente operativas, frenos en excelente estado, y aire acondicionado funcional.",bueno
+"Todo funciona correctamente, incluyendo neumáticos nuevos, luces completamente operativas, y frenos en excelente estado.",bueno
+"El vehículo cristales impecables y frenos en excelente estado, además pintura impecable.",bueno
+"El coche mantenimiento irregular, pero aún requiere cambio de aceite. También aire acondicionado ruidoso.",neutral
+"Aunque llanta ligeramente desgastada y motor hace un leve ruido, todavía aire acondicionado ruidoso.",neutral
+"El coche ventanas con rayones, pero aún motor hace un leve ruido. También puertas algo duras.",neutral
+"Aunque ventanas con rayones y interior con algo de desgaste, todavía pequeños rayones.",neutral
+"El coche luces traseras sucias, pero aún ventanas con rayones. También motor hace un leve ruido.",neutral
+"Está en excelente estado: funciona perfectamente, neumáticos nuevos y sin ruidos extraños.",bueno
+"Todo funciona correctamente, incluyendo cristales impecables, interior limpio, y motor suave.",bueno
+"Está en excelente estado: aire acondicionado funcional, interior limpio y funciona perfectamente.",bueno
+"Está en excelente estado: neumáticos nuevos, carrocería sin abolladuras y interior limpio.",bueno
+"El vehículo mantenimiento reciente y carrocería sin abolladuras, además funciona perfectamente.",bueno
+"El vehículo interior limpio y aire acondicionado funcional, además carrocería sin abolladuras.",bueno
+"Aunque pequeños rayones y ventanas con rayones, todavía requiere cambio de aceite.",neutral
+"Aunque requiere cambio de aceite y motor hace un leve ruido, todavía aire acondicionado ruidoso.",neutral
+"Tiene ventanas con rayones y aire acondicionado ruidoso, aunque mantenimiento irregular.",neutral
+"Todo funciona correctamente, incluyendo luces completamente operativas, frenos en excelente estado, y carrocería sin abolladuras.",bueno
+"Está en excelente estado: motor suave, neumáticos nuevos y aire acondicionado funcional.",bueno
+"Está en excelente estado: funciona perfectamente, sin ruidos extraños y luces completamente operativas.",bueno
+"Todo funciona correctamente, incluyendo neumáticos nuevos, mantenimiento reciente, y pintura impecable.",bueno
+"Está en excelente estado: motor suave, aire acondicionado funcional y interior limpio.",bueno
+"El vehículo interior limpio y neumáticos nuevos, además carrocería sin abolladuras.",bueno
+"Está en excelente estado: frenos en excelente estado, luces completamente operativas y pintura impecable.",bueno
+"El coche interior con algo de desgaste, pero aún llanta ligeramente desgastada. También ventanas con rayones.",neutral
+"Aunque motor hace un leve ruido y pequeños rayones, todavía llanta ligeramente desgastada.",neutral
+"Tiene aire acondicionado ruidoso y llanta ligeramente desgastada, aunque interior con algo de desgaste.",neutral
+"Aunque mantenimiento irregular y luces traseras sucias, todavía pequeños rayones.",neutral
+"El vehículo ruido excesivo, además escape roto y frenos desgastados.",malo
+"Presenta fuga de aceite y ruido excesivo, con signos de que también neumáticos lisos.",malo
+"Presenta escape roto y luces delanteras inoperativas, con signos de que también presenta óxido.",malo
+"Presenta neumáticos lisos y presenta óxido, con signos de que también batería descargada.",malo
+"Está en mal estado general: no arranca, luces delanteras inoperativas, y fuga de aceite.",malo
+"El vehículo ruido excesivo, además parabrisas roto y neumáticos lisos.",malo
+"Está en mal estado general: luces delanteras inoperativas, presenta óxido, y frenos desgastados.",malo
+"Está en mal estado general: neumáticos lisos, fuga de aceite, y parabrisas roto.",malo
+"Presenta escape roto y batería descargada, con signos de que también fuga de aceite.",malo
+"Está en mal estado general: puertas que no cierran, frenos desgastados, y motor con fallas.",malo
+"Presenta presenta óxido y ruido excesivo, con signos de que también no arranca.",malo
+"Presenta escape roto y presenta óxido, con signos de que también motor con fallas.",malo
+"El vehículo frenos desgastados, además escape roto y batería descargada.",malo
+"El vehículo batería descargada, además ruido excesivo y neumáticos lisos.",malo
+"Está en mal estado general: puertas que no cierran, ruido excesivo, y neumáticos lisos.",malo
+"Está en mal estado general: puertas que no cierran, no arranca, y motor con fallas.",malo
+"Está en mal estado general: frenos desgastados, ruido excesivo, y escape roto.",malo
+"Está en mal estado general: frenos desgastados, fuga de aceite, y presenta óxido.",malo
+"Presenta luces delanteras inoperativas y presenta óxido, con signos de que también no arranca.",malo
+"El vehículo luces delanteras inoperativas, además fuga de aceite y presenta óxido.",malo
+"Está en mal estado general: fuga de aceite, luces delanteras inoperativas, y batería descargada.",malo
+"Está en mal estado general: escape roto, ruido excesivo, y puertas que no cierran.",malo
+"Está en mal estado general: presenta óxido, escape roto, y frenos desgastados.",malo
+"Presenta puertas que no cierran y batería descargada, con signos de que también neumáticos lisos.",malo
+"Está en mal estado general: frenos desgastados, luces delanteras inoperativas, y motor con fallas.",malo
+"Presenta frenos desgastados y ruido excesivo, con signos de que también presenta óxido.",malo
+"Presenta ruido excesivo y escape roto, con signos de que también parabrisas roto.",malo
+"Presenta neumáticos lisos y escape roto, con signos de que también presenta óxido.",malo
+"Está en mal estado general: frenos desgastados, fuga de aceite, y parabrisas roto.",malo
+"El vehículo neumáticos lisos, además batería descargada y luces delanteras inoperativas.",malo
+"El vehículo ruido excesivo, además neumáticos lisos y luces delanteras inoperativas.",malo
+"Está en mal estado general: escape roto, luces delanteras inoperativas, y motor con fallas.",malo
+"Está en mal estado general: presenta óxido, frenos desgastados, y fuga de aceite.",malo
+"Presenta neumáticos lisos y escape roto, con signos de que también batería descargada.",malo
+"Presenta frenos desgastados y motor con fallas, con signos de que también presenta óxido.",malo
+"El vehículo escape roto, además luces delanteras inoperativas y fuga de aceite.",malo
+"Está en mal estado general: fuga de aceite, presenta óxido, y escape roto.",malo
+"Presenta luces delanteras inoperativas y motor con fallas, con signos de que también no arranca.",malo
+"El vehículo no arranca, además neumáticos lisos y luces delanteras inoperativas.",malo
+"Presenta puertas que no cierran y luces delanteras inoperativas, con signos de que también motor con fallas.",malo
+"Está en mal estado general: luces delanteras inoperativas, frenos desgastados, y fuga de aceite.",malo
+"Presenta fuga de aceite y no arranca, con signos de que también presenta óxido.",malo
+"Está en mal estado general: motor con fallas, ruido excesivo, y fuga de aceite.",malo
+"Presenta motor con fallas y batería descargada, con signos de que también no arranca.",malo
+"Presenta parabrisas roto y batería descargada, con signos de que también presenta óxido.",malo
+"Presenta parabrisas roto y motor con fallas, con signos de que también no arranca.",malo
+"Presenta luces delanteras inoperativas y presenta óxido, con signos de que también fuga de aceite.",malo
+"Está en mal estado general: frenos desgastados, parabrisas roto, y batería descargada.",malo
+"Presenta neumáticos lisos y frenos desgastados, con signos de que también ruido excesivo.",malo
+"Presenta no arranca y motor con fallas, con signos de que también presenta óxido.",malo
+"Presenta parabrisas roto y ruido excesivo, con signos de que también escape roto.",malo
+"El vehículo no arranca, además parabrisas roto y batería descargada.",malo
+"Presenta parabrisas roto y motor con fallas, con signos de que también presenta óxido.",malo
+"El vehículo neumáticos lisos, además parabrisas roto y puertas que no cierran.",malo
+"Está en mal estado general: luces delanteras inoperativas, parabrisas roto, y ruido excesivo.",malo
+"Está en mal estado general: batería descargada, fuga de aceite, y luces delanteras inoperativas.",malo
+"El vehículo puertas que no cierran, además batería descargada y presenta óxido.",malo
+"Presenta motor con fallas y no arranca, con signos de que también ruido excesivo.",malo
+"Presenta batería descargada y luces delanteras inoperativas, con signos de que también ruido excesivo.",malo
+"El vehículo no arranca, además fuga de aceite y luces delanteras inoperativas.",malo
+"El vehículo escape roto, además parabrisas roto y motor con fallas.",malo
+"Presenta neumáticos lisos y presenta óxido, con signos de que también ruido excesivo.",malo
+"El vehículo parabrisas roto, además presenta óxido y frenos desgastados.",malo
+"Está en mal estado general: puertas que no cierran, neumáticos lisos, y frenos desgastados.",malo
+"El vehículo fuga de aceite, además motor con fallas y neumáticos lisos.",malo
+"Presenta puertas que no cierran y batería descargada, con signos de que también luces delanteras inoperativas.",malo
+"Presenta neumáticos lisos y fuga de aceite, con signos de que también no arranca.",malo
+"Está en mal estado general: escape roto, no arranca, y batería descargada.",malo
+"El vehículo luces delanteras inoperativas, además presenta óxido y frenos desgastados.",malo
+"El vehículo no arranca, además frenos desgastados y puertas que no cierran.",malo
+"El vehículo parabrisas roto, además presenta óxido y ruido excesivo.",malo
+"Está en mal estado general: frenos desgastados, escape roto, y puertas que no cierran.",malo
+"Está en mal estado general: frenos desgastados, fuga de aceite, y no arranca.",malo
+"Presenta frenos desgastados y luces delanteras inoperativas, con signos de que también fuga de aceite.",malo
+"Está en mal estado general: fuga de aceite, motor con fallas, y frenos desgastados.",malo
+"Está en mal estado general: escape roto, luces delanteras inoperativas, y frenos desgastados.",malo
+"Presenta batería descargada y fuga de aceite, con signos de que también ruido excesivo.",malo
+"Está en mal estado general: motor con fallas, parabrisas roto, y batería descargada.",malo
+"El vehículo parabrisas roto, además batería descargada y no arranca.",malo
+"Está en mal estado general: puertas que no cierran, frenos desgastados, y ruido excesivo.",malo
+"El vehículo batería descargada, además luces delanteras inoperativas y frenos desgastados.",malo
+"Presenta ruido excesivo y fuga de aceite, con signos de que también motor con fallas.",malo
+"El vehículo batería descargada, además no arranca y ruido excesivo.",malo
+"Presenta frenos desgastados y presenta óxido, con signos de que también ruido excesivo.",malo
+"El vehículo neumáticos lisos, además frenos desgastados y no arranca.",malo
+"El vehículo presenta óxido, además escape roto y puertas que no cierran.",malo
+"Está en mal estado general: escape roto, puertas que no cierran, y fuga de aceite.",malo
+"Está en mal estado general: luces delanteras inoperativas, neumáticos lisos, y frenos desgastados.",malo
+"El vehículo luces delanteras inoperativas, además parabrisas roto y neumáticos lisos.",malo
+"Está en mal estado general: parabrisas roto, motor con fallas, y presenta óxido.",malo
+"Presenta ruido excesivo y presenta óxido, con signos de que también frenos desgastados.",malo
+"El vehículo ruido excesivo, además batería descargada y presenta óxido.",malo
+"Está en mal estado general: fuga de aceite, batería descargada, y no arranca.",malo
+"Presenta ruido excesivo y frenos desgastados, con signos de que también parabrisas roto.",malo
+"El vehículo batería descargada, además fuga de aceite y frenos desgastados.",malo
+"Presenta frenos desgastados y batería descargada, con signos de que también escape roto.",malo
+"Presenta fuga de aceite y motor con fallas, con signos de que también puertas que no cierran.",malo
+"Presenta neumáticos lisos y frenos desgastados, con signos de que también ruido excesivo.",malo
+"Está en mal estado general: escape roto, motor con fallas, y ruido excesivo.",malo
+"Está en mal estado general: parabrisas roto, frenos desgastados, y luces delanteras inoperativas.",malo
+"Presenta neumáticos lisos y puertas que no cierran, con signos de que también presenta óxido.",malo
+"Presenta fuga de aceite y ruido excesivo, con signos de que también motor con fallas.",malo
+"Está en mal estado general: presenta óxido, frenos desgastados, y batería descargada.",malo
+"El vehículo fuga de aceite, además escape roto y no arranca.",malo
+"Está en mal estado general: parabrisas roto, escape roto, y no arranca.",malo
+"Está en mal estado general: presenta óxido, ruido excesivo, y frenos desgastados.",malo
+"El vehículo batería descargada, además no arranca y escape roto.",malo
+"El vehículo no arranca, además batería descargada y frenos desgastados.",malo
+"El vehículo luces delanteras inoperativas, además escape roto y no arranca.",malo
+"Está en mal estado general: no arranca, motor con fallas, y escape roto.",malo
+"Presenta neumáticos lisos y ruido excesivo, con signos de que también presenta óxido.",malo
+"Está en mal estado general: luces delanteras inoperativas, frenos desgastados, y parabrisas roto.",malo
+"Está en mal estado general: motor con fallas, fuga de aceite, y parabrisas roto.",malo
+"El vehículo batería descargada, además fuga de aceite y presenta óxido.",malo
+"Presenta luces delanteras inoperativas y motor con fallas, con signos de que también frenos desgastados.",malo
+"Presenta luces delanteras inoperativas y parabrisas roto, con signos de que también ruido excesivo.",malo
+"El vehículo motor con fallas, además ruido excesivo y batería descargada.",malo
+"Está en mal estado general: motor con fallas, frenos desgastados, y no arranca.",malo
+"Presenta motor con fallas y ruido excesivo, con signos de que también puertas que no cierran.",malo
+"Está en mal estado general: frenos desgastados, fuga de aceite, y parabrisas roto.",malo
+"Está en mal estado general: puertas que no cierran, batería descargada, y neumáticos lisos.",malo
+"El vehículo presenta óxido, además luces delanteras inoperativas y no arranca.",malo
+"El vehículo luces delanteras inoperativas, además frenos desgastados y parabrisas roto.",malo
+"Está en mal estado general: fuga de aceite, motor con fallas, y parabrisas roto.",malo
+"Presenta neumáticos lisos y puertas que no cierran, con signos de que también motor con fallas.",malo
+"Presenta presenta óxido y escape roto, con signos de que también fuga de aceite.",malo
+"El vehículo neumáticos lisos, además ruido excesivo y luces delanteras inoperativas.",malo
+"Está en mal estado general: presenta óxido, escape roto, y neumáticos lisos.",malo
+"El vehículo batería descargada, además escape roto y no arranca.",malo
+"El vehículo luces delanteras inoperativas, además fuga de aceite y parabrisas roto.",malo
+"El vehículo presenta óxido, además frenos desgastados y escape roto.",malo
+"Presenta batería descargada y parabrisas roto, con signos de que también escape roto.",malo
+"Presenta ruido excesivo y frenos desgastados, con signos de que también presenta óxido.",malo
+"Presenta neumáticos lisos y batería descargada, con signos de que también parabrisas roto.",malo
+"El vehículo puertas que no cierran, además escape roto y neumáticos lisos.",malo
+"Está en mal estado general: batería descargada, neumáticos lisos, y fuga de aceite.",malo
+"Está en mal estado general: fuga de aceite, luces delanteras inoperativas, y frenos desgastados.",malo
+"Presenta ruido excesivo y frenos desgastados, con signos de que también escape roto.",malo
+"Está en mal estado general: escape roto, batería descargada, y no arranca.",malo
+"Está en mal estado general: luces delanteras inoperativas, puertas que no cierran, y fuga de aceite.",malo
+"Tiene requiere cambio de aceite y motor hace un leve ruido, aunque pequeños rayones.",neutral
+"Tiene mantenimiento irregular y pequeños rayones, aunque luces traseras sucias.",neutral
+"Aunque puertas algo duras y requiere cambio de aceite, todavía aire acondicionado ruidoso.",neutral
+"Aunque luces traseras sucias y interior con algo de desgaste, todavía aire acondicionado ruidoso.",neutral
+"Aunque ventanas con rayones y luces traseras sucias, todavía pequeños rayones.",neutral
+"Tiene puertas algo duras y ventanas con rayones, aunque aire acondicionado ruidoso.",neutral
+"Tiene interior con algo de desgaste y ventanas con rayones, aunque puertas algo duras.",neutral
+"El coche ventanas con rayones, pero aún interior con algo de desgaste. También aire acondicionado ruidoso.",neutral
+"Aunque interior con algo de desgaste y puertas algo duras, todavía llanta ligeramente desgastada.",neutral
+"Tiene llanta ligeramente desgastada y ventanas con rayones, aunque motor hace un leve ruido.",neutral
+"Tiene pequeños rayones y mantenimiento irregular, aunque motor hace un leve ruido.",neutral
+"El coche requiere cambio de aceite, pero aún puertas algo duras. También motor hace un leve ruido.",neutral
+"Aunque motor hace un leve ruido y luces traseras sucias, todavía puertas algo duras.",neutral
+"Aunque puertas algo duras y motor hace un leve ruido, todavía luces traseras sucias.",neutral
+"Aunque ventanas con rayones y requiere cambio de aceite, todavía interior con algo de desgaste.",neutral
+"Tiene mantenimiento irregular y luces traseras sucias, aunque aire acondicionado ruidoso.",neutral
+"Tiene mantenimiento irregular y aire acondicionado ruidoso, aunque interior con algo de desgaste.",neutral
+"Tiene pequeños rayones y aire acondicionado ruidoso, aunque ventanas con rayones.",neutral
+"El coche requiere cambio de aceite, pero aún puertas algo duras. También interior con algo de desgaste.",neutral
+"Tiene llanta ligeramente desgastada y motor hace un leve ruido, aunque aire acondicionado ruidoso.",neutral
+"El coche motor hace un leve ruido, pero aún pequeños rayones. También luces traseras sucias.",neutral
+"El coche motor hace un leve ruido, pero aún puertas algo duras. También luces traseras sucias.",neutral
+"El coche motor hace un leve ruido, pero aún luces traseras sucias. También llanta ligeramente desgastada.",neutral
+"Tiene aire acondicionado ruidoso y motor hace un leve ruido, aunque interior con algo de desgaste.",neutral
+"Aunque llanta ligeramente desgastada y luces traseras sucias, todavía mantenimiento irregular.",neutral
+"El coche requiere cambio de aceite, pero aún interior con algo de desgaste. También pequeños rayones.",neutral
+"El coche requiere cambio de aceite, pero aún pequeños rayones. También luces traseras sucias.",neutral
+"Tiene mantenimiento irregular y ventanas con rayones, aunque aire acondicionado ruidoso.",neutral
+"Tiene requiere cambio de aceite y puertas algo duras, aunque pequeños rayones.",neutral
+"Tiene llanta ligeramente desgastada y pequeños rayones, aunque motor hace un leve ruido.",neutral
+"Tiene mantenimiento irregular y luces traseras sucias, aunque motor hace un leve ruido.",neutral
+"El coche requiere cambio de aceite, pero aún puertas algo duras. También mantenimiento irregular.",neutral
+"Tiene requiere cambio de aceite y llanta ligeramente desgastada, aunque mantenimiento irregular.",neutral
+"Tiene motor hace un leve ruido y aire acondicionado ruidoso, aunque pequeños rayones.",neutral
+"Tiene interior con algo de desgaste y puertas algo duras, aunque ventanas con rayones.",neutral
+"Aunque luces traseras sucias y mantenimiento irregular, todavía llanta ligeramente desgastada.",neutral
+"Tiene puertas algo duras y ventanas con rayones, aunque aire acondicionado ruidoso.",neutral
+"Tiene puertas algo duras y llanta ligeramente desgastada, aunque requiere cambio de aceite.",neutral
+"Tiene interior con algo de desgaste y llanta ligeramente desgastada, aunque ventanas con rayones.",neutral
+"Aunque requiere cambio de aceite y mantenimiento irregular, todavía aire acondicionado ruidoso.",neutral
+"Tiene mantenimiento irregular y llanta ligeramente desgastada, aunque luces traseras sucias.",neutral
+"El coche puertas algo duras, pero aún requiere cambio de aceite. También llanta ligeramente desgastada.",neutral
+"Aunque llanta ligeramente desgastada y luces traseras sucias, todavía requiere cambio de aceite.",neutral
+"Aunque mantenimiento irregular y luces traseras sucias, todavía aire acondicionado ruidoso.",neutral
+"El coche puertas algo duras, pero aún luces traseras sucias. También requiere cambio de aceite.",neutral
+"El coche ventanas con rayones, pero aún requiere cambio de aceite. También motor hace un leve ruido.",neutral
+"Aunque interior con algo de desgaste y motor hace un leve ruido, todavía ventanas con rayones.",neutral
+"Aunque pequeños rayones y ventanas con rayones, todavía mantenimiento irregular.",neutral
+"Aunque puertas algo duras y interior con algo de desgaste, todavía llanta ligeramente desgastada.",neutral
+"Aunque aire acondicionado ruidoso y interior con algo de desgaste, todavía luces traseras sucias.",neutral
+"Aunque puertas algo duras y luces traseras sucias, todavía llanta ligeramente desgastada.",neutral
+"El coche aire acondicionado ruidoso, pero aún luces traseras sucias. También interior con algo de desgaste.",neutral
+"Tiene interior con algo de desgaste y puertas algo duras, aunque motor hace un leve ruido.",neutral
+"El coche aire acondicionado ruidoso, pero aún mantenimiento irregular. También llanta ligeramente desgastada.",neutral
+"Tiene aire acondicionado ruidoso y interior con algo de desgaste, aunque requiere cambio de aceite.",neutral
+"Tiene puertas algo duras y requiere cambio de aceite, aunque motor hace un leve ruido.",neutral
+"El vehículo frenos en excelente estado y aire acondicionado funcional, además luces completamente operativas.",bueno
+"Todo funciona correctamente, incluyendo pintura impecable, mantenimiento reciente, y cristales impecables.",bueno
+"Todo funciona correctamente, incluyendo sin ruidos extraños, neumáticos nuevos, y motor suave.",bueno
+"El vehículo cristales impecables y aire acondicionado funcional, además sin ruidos extraños.",bueno
+"Está en excelente estado: pintura impecable, sin ruidos extraños y mantenimiento reciente.",bueno
+"Está en excelente estado: pintura impecable, neumáticos nuevos y mantenimiento reciente.",bueno
+"Aunque aire acondicionado ruidoso y interior con algo de desgaste, todavía motor hace un leve ruido.",neutral
+"Aunque luces traseras sucias y motor hace un leve ruido, todavía puertas algo duras.",neutral
+"Aunque motor hace un leve ruido y llanta ligeramente desgastada, todavía requiere cambio de aceite.",neutral
+"Tiene interior con algo de desgaste y aire acondicionado ruidoso, aunque ventanas con rayones.",neutral
+"El coche aire acondicionado ruidoso, pero aún interior con algo de desgaste. También motor hace un leve ruido.",neutral
+"Aunque ventanas con rayones y motor hace un leve ruido, todavía aire acondicionado ruidoso.",neutral
+"Aunque pequeños rayones y puertas algo duras, todavía mantenimiento irregular.",neutral
+"El coche ventanas con rayones, pero aún llanta ligeramente desgastada. También luces traseras sucias.",neutral
+"Tiene luces traseras sucias y requiere cambio de aceite, aunque aire acondicionado ruidoso.",neutral
+"Aunque aire acondicionado ruidoso y ventanas con rayones, todavía llanta ligeramente desgastada.",neutral
+"Aunque llanta ligeramente desgastada y aire acondicionado ruidoso, todavía ventanas con rayones.",neutral
+"Aunque mantenimiento irregular y puertas algo duras, todavía aire acondicionado ruidoso.",neutral
+"Aunque pequeños rayones y mantenimiento irregular, todavía requiere cambio de aceite.",neutral
+"Aunque ventanas con rayones y puertas algo duras, todavía pequeños rayones.",neutral
+"Aunque motor hace un leve ruido y puertas algo duras, todavía interior con algo de desgaste.",neutral
+"Tiene luces traseras sucias y motor hace un leve ruido, aunque ventanas con rayones.",neutral
+"Tiene aire acondicionado ruidoso y llanta ligeramente desgastada, aunque motor hace un leve ruido.",neutral
+"Aunque llanta ligeramente desgastada y requiere cambio de aceite, todavía aire acondicionado ruidoso.",neutral
+"Aunque motor hace un leve ruido y luces traseras sucias, todavía ventanas con rayones.",neutral
+"Tiene motor hace un leve ruido y llanta ligeramente desgastada, aunque mantenimiento irregular.",neutral
+"Aunque llanta ligeramente desgastada y aire acondicionado ruidoso, todavía requiere cambio de aceite.",neutral
+"El coche ventanas con rayones, pero aún luces traseras sucias. También aire acondicionado ruidoso.",neutral
+"Aunque interior con algo de desgaste y pequeños rayones, todavía motor hace un leve ruido.",neutral
+"El coche pequeños rayones, pero aún ventanas con rayones. También motor hace un leve ruido.",neutral
+"El coche ventanas con rayones, pero aún requiere cambio de aceite. También mantenimiento irregular.",neutral
+"Tiene mantenimiento irregular y puertas algo duras, aunque interior con algo de desgaste.",neutral
+"Tiene requiere cambio de aceite y pequeños rayones, aunque mantenimiento irregular.",neutral
+"Aunque pequeños rayones y requiere cambio de aceite, todavía puertas algo duras.",neutral
+"Aunque aire acondicionado ruidoso y interior con algo de desgaste, todavía requiere cambio de aceite.",neutral
+"El coche interior con algo de desgaste, pero aún requiere cambio de aceite. También luces traseras sucias.",neutral
+"Tiene interior con algo de desgaste y mantenimiento irregular, aunque luces traseras sucias.",neutral
+"Tiene motor hace un leve ruido y aire acondicionado ruidoso, aunque puertas algo duras.",neutral
+"El coche pequeños rayones, pero aún requiere cambio de aceite. También mantenimiento irregular.",neutral
+"Tiene interior con algo de desgaste y ventanas con rayones, aunque pequeños rayones.",neutral
+"Tiene interior con algo de desgaste y llanta ligeramente desgastada, aunque puertas algo duras.",neutral
+"El coche mantenimiento irregular, pero aún pequeños rayones. También ventanas con rayones.",neutral
+"Aunque aire acondicionado ruidoso y puertas algo duras, todavía pequeños rayones.",neutral
+"Tiene mantenimiento irregular y ventanas con rayones, aunque luces traseras sucias.",neutral
+"El vehículo presenta óxido, además fuga de aceite y escape roto.",malo
+"Está en mal estado general: escape roto, ruido excesivo, y batería descargada.",malo
+"El vehículo motor con fallas, además batería descargada y puertas que no cierran.",malo
+"El vehículo motor con fallas, además ruido excesivo y batería descargada.",malo
+"Está en mal estado general: escape roto, neumáticos lisos, y frenos desgastados.",malo
+"Presenta fuga de aceite y neumáticos lisos, con signos de que también batería descargada.",malo
+"El vehículo no arranca, además motor con fallas y neumáticos lisos.",malo
+"Está en excelente estado: mantenimiento reciente, motor suave y pintura impecable.",bueno
+"El vehículo frenos en excelente estado y motor suave, además funciona perfectamente.",bueno
+"Todo funciona correctamente, incluyendo carrocería sin abolladuras, frenos en excelente estado, y luces completamente operativas.",bueno
+"Aunque ventanas con rayones y motor hace un leve ruido, todavía aire acondicionado ruidoso.",neutral
+"El coche pequeños rayones, pero aún motor hace un leve ruido. También interior con algo de desgaste.",neutral
+"El coche llanta ligeramente desgastada, pero aún luces traseras sucias. También puertas algo duras.",neutral
+"Tiene motor hace un leve ruido y ventanas con rayones, aunque requiere cambio de aceite.",neutral
+"El coche aire acondicionado ruidoso, pero aún requiere cambio de aceite. También interior con algo de desgaste.",neutral
+"El coche motor hace un leve ruido, pero aún interior con algo de desgaste. También aire acondicionado ruidoso.",neutral
+"Tiene requiere cambio de aceite y mantenimiento irregular, aunque luces traseras sucias.",neutral
+"Aunque luces traseras sucias y requiere cambio de aceite, todavía llanta ligeramente desgastada.",neutral
+"Tiene interior con algo de desgaste y mantenimiento irregular, aunque ventanas con rayones.",neutral
+"Tiene mantenimiento irregular y aire acondicionado ruidoso, aunque requiere cambio de aceite.",neutral
+"Aunque motor hace un leve ruido y luces traseras sucias, todavía aire acondicionado ruidoso.",neutral
+"El coche pequeños rayones, pero aún requiere cambio de aceite. También puertas algo duras.",neutral
+"Aunque motor hace un leve ruido y puertas algo duras, todavía mantenimiento irregular.",neutral
+"Aunque ventanas con rayones y interior con algo de desgaste, todavía requiere cambio de aceite.",neutral
+"Aunque interior con algo de desgaste y requiere cambio de aceite, todavía llanta ligeramente desgastada.",neutral
+"Tiene motor hace un leve ruido y luces traseras sucias, aunque puertas algo duras.",neutral
+"Todo funciona correctamente, incluyendo neumáticos nuevos, cristales impecables, y aire acondicionado funcional.",bueno
+"Está en excelente estado: luces completamente operativas, motor suave y mantenimiento reciente.",bueno
+"El vehículo mantenimiento reciente y aire acondicionado funcional, además pintura impecable.",bueno
+"El vehículo funciona perfectamente y pintura impecable, además sin ruidos extraños.",bueno
+"El vehículo neumáticos nuevos y cristales impecables, además funciona perfectamente.",bueno
+"Todo funciona correctamente, incluyendo interior limpio, luces completamente operativas, y pintura impecable.",bueno
+"Todo funciona correctamente, incluyendo sin ruidos extraños, luces completamente operativas, y interior limpio.",bueno
+"El vehículo carrocería sin abolladuras y neumáticos nuevos, además sin ruidos extraños.",bueno
+"El vehículo aire acondicionado funcional y funciona perfectamente, además neumáticos nuevos.",bueno
+"El coche llanta ligeramente desgastada, pero aún ventanas con rayones. También interior con algo de desgaste.",neutral
+"El coche interior con algo de desgaste, pero aún mantenimiento irregular. También llanta ligeramente desgastada.",neutral
+"Tiene requiere cambio de aceite y interior con algo de desgaste, aunque puertas algo duras.",neutral
+"Aunque requiere cambio de aceite y mantenimiento irregular, todavía aire acondicionado ruidoso.",neutral
+"El coche interior con algo de desgaste, pero aún requiere cambio de aceite. También puertas algo duras.",neutral
+"Aunque interior con algo de desgaste y motor hace un leve ruido, todavía luces traseras sucias.",neutral
+"El coche ventanas con rayones, pero aún motor hace un leve ruido. También llanta ligeramente desgastada.",neutral
+"Aunque ventanas con rayones y luces traseras sucias, todavía pequeños rayones.",neutral
+"Tiene ventanas con rayones y llanta ligeramente desgastada, aunque luces traseras sucias.",neutral
+"Tiene interior con algo de desgaste y puertas algo duras, aunque ventanas con rayones.",neutral
+"El coche pequeños rayones, pero aún aire acondicionado ruidoso. También ventanas con rayones.",neutral
+"El coche aire acondicionado ruidoso, pero aún pequeños rayones. También requiere cambio de aceite.",neutral
+"Tiene puertas algo duras y llanta ligeramente desgastada, aunque motor hace un leve ruido.",neutral
+"Aunque motor hace un leve ruido y aire acondicionado ruidoso, todavía ventanas con rayones.",neutral
+"El coche pequeños rayones, pero aún motor hace un leve ruido. También luces traseras sucias.",neutral
+"El coche mantenimiento irregular, pero aún llanta ligeramente desgastada. También requiere cambio de aceite.",neutral
+"Tiene llanta ligeramente desgastada y pequeños rayones, aunque interior con algo de desgaste.",neutral
+"Aunque pequeños rayones y interior con algo de desgaste, todavía motor hace un leve ruido.",neutral
+"Tiene mantenimiento irregular y puertas algo duras, aunque requiere cambio de aceite.",neutral
+"El coche motor hace un leve ruido, pero aún llanta ligeramente desgastada. También puertas algo duras.",neutral
+"Aunque luces traseras sucias y puertas algo duras, todavía llanta ligeramente desgastada.",neutral
+"Aunque puertas algo duras y requiere cambio de aceite, todavía llanta ligeramente desgastada.",neutral
+"Aunque interior con algo de desgaste y motor hace un leve ruido, todavía pequeños rayones.",neutral
+"Aunque pequeños rayones y aire acondicionado ruidoso, todavía mantenimiento irregular.",neutral
+"El coche mantenimiento irregular, pero aún puertas algo duras. También interior con algo de desgaste.",neutral
+"El coche luces traseras sucias, pero aún pequeños rayones. También llanta ligeramente desgastada.",neutral
+"Aunque luces traseras sucias y pequeños rayones, todavía requiere cambio de aceite.",neutral
+"Aunque luces traseras sucias y requiere cambio de aceite, todavía puertas algo duras.",neutral
+"El coche requiere cambio de aceite, pero aún aire acondicionado ruidoso. También pequeños rayones.",neutral
+"Tiene luces traseras sucias y mantenimiento irregular, aunque puertas algo duras.",neutral
+"Tiene interior con algo de desgaste y pequeños rayones, aunque mantenimiento irregular.",neutral
+"Aunque pequeños rayones y requiere cambio de aceite, todavía motor hace un leve ruido.",neutral
+"Tiene luces traseras sucias y mantenimiento irregular, aunque llanta ligeramente desgastada.",neutral
+"El coche aire acondicionado ruidoso, pero aún interior con algo de desgaste. También motor hace un leve ruido.",neutral
+"Tiene mantenimiento irregular y motor hace un leve ruido, aunque luces traseras sucias.",neutral
+"El coche interior con algo de desgaste, pero aún aire acondicionado ruidoso. También pequeños rayones.",neutral
+"El coche mantenimiento irregular, pero aún interior con algo de desgaste. También pequeños rayones.",neutral
+"Está en excelente estado: sin ruidos extraños, motor suave y neumáticos nuevos.",bueno
+"Está en excelente estado: aire acondicionado funcional, cristales impecables y neumáticos nuevos.",bueno
+"Todo funciona correctamente, incluyendo motor suave, carrocería sin abolladuras, y interior limpio.",bueno
+"Todo funciona correctamente, incluyendo luces completamente operativas, aire acondicionado funcional, y interior limpio.",bueno
+"El vehículo frenos en excelente estado y aire acondicionado funcional, además sin ruidos extraños.",bueno
+"Está en excelente estado: interior limpio, frenos en excelente estado y pintura impecable.",bueno
+"El vehículo interior limpio y carrocería sin abolladuras, además luces completamente operativas.",bueno
+"El vehículo interior limpio y funciona perfectamente, además neumáticos nuevos.",bueno
+"Todo funciona correctamente, incluyendo carrocería sin abolladuras, cristales impecables, y frenos en excelente estado.",bueno
+"Todo funciona correctamente, incluyendo aire acondicionado funcional, sin ruidos extraños, y motor suave.",bueno
+"El vehículo mantenimiento reciente y luces completamente operativas, además carrocería sin abolladuras.",bueno
+"Todo funciona correctamente, incluyendo aire acondicionado funcional, motor suave, y carrocería sin abolladuras.",bueno
+"El vehículo frenos en excelente estado y carrocería sin abolladuras, además sin ruidos extraños.",bueno
+"El vehículo aire acondicionado funcional y funciona perfectamente, además luces completamente operativas.",bueno
+"El vehículo funciona perfectamente y aire acondicionado funcional, además luces completamente operativas.",bueno
+"El vehículo sin ruidos extraños y funciona perfectamente, además mantenimiento reciente.",bueno
+"Todo funciona correctamente, incluyendo frenos en excelente estado, luces completamente operativas, y neumáticos nuevos.",bueno
+"El vehículo carrocería sin abolladuras y neumáticos nuevos, además pintura impecable.",bueno
+"Todo funciona correctamente, incluyendo motor suave, sin ruidos extraños, y pintura impecable.",bueno
+"Todo funciona correctamente, incluyendo sin ruidos extraños, pintura impecable, y cristales impecables.",bueno
+"Está en excelente estado: luces completamente operativas, funciona perfectamente y frenos en excelente estado.",bueno
+"Está en excelente estado: carrocería sin abolladuras, sin ruidos extraños y luces completamente operativas.",bueno
+"Todo funciona correctamente, incluyendo luces completamente operativas, pintura impecable, y aire acondicionado funcional.",bueno
+"Está en excelente estado: aire acondicionado funcional, motor suave y pintura impecable.",bueno
+"El vehículo carrocería sin abolladuras y motor suave, además funciona perfectamente.",bueno
+"Todo funciona correctamente, incluyendo carrocería sin abolladuras, mantenimiento reciente, y cristales impecables.",bueno
+"El vehículo mantenimiento reciente y interior limpio, además funciona perfectamente.",bueno
+"Está en excelente estado: interior limpio, sin ruidos extraños y mantenimiento reciente.",bueno
+"Está en excelente estado: motor suave, luces completamente operativas y interior limpio.",bueno
+"Todo funciona correctamente, incluyendo frenos en excelente estado, carrocería sin abolladuras, y aire acondicionado funcional.",bueno
+"Está en excelente estado: sin ruidos extraños, neumáticos nuevos y frenos en excelente estado.",bueno
+"Todo funciona correctamente, incluyendo pintura impecable, frenos en excelente estado, y sin ruidos extraños.",bueno
+"Está en excelente estado: cristales impecables, carrocería sin abolladuras y aire acondicionado funcional.",bueno
+"Todo funciona correctamente, incluyendo pintura impecable, luces completamente operativas, y mantenimiento reciente.",bueno
+"Todo funciona correctamente, incluyendo motor suave, mantenimiento reciente, y cristales impecables.",bueno
+"El vehículo frenos en excelente estado y pintura impecable, además interior limpio.",bueno
+"Todo funciona correctamente, incluyendo mantenimiento reciente, luces completamente operativas, y frenos en excelente estado.",bueno
+"El vehículo pintura impecable y neumáticos nuevos, además funciona perfectamente.",bueno
+"Está en excelente estado: luces completamente operativas, carrocería sin abolladuras y funciona perfectamente.",bueno
+"Todo funciona correctamente, incluyendo interior limpio, mantenimiento reciente, y funciona perfectamente.",bueno
+"Está en excelente estado: aire acondicionado funcional, pintura impecable y funciona perfectamente.",bueno
+"Todo funciona correctamente, incluyendo aire acondicionado funcional, frenos en excelente estado, y sin ruidos extraños.",bueno
+"El vehículo interior limpio y pintura impecable, además frenos en excelente estado.",bueno
+"El vehículo interior limpio y aire acondicionado funcional, además frenos en excelente estado.",bueno
+"El vehículo frenos en excelente estado y pintura impecable, además mantenimiento reciente.",bueno
+"El vehículo luces completamente operativas y frenos en excelente estado, además neumáticos nuevos.",bueno
+"El vehículo aire acondicionado funcional y carrocería sin abolladuras, además neumáticos nuevos.",bueno
+"Todo funciona correctamente, incluyendo motor suave, mantenimiento reciente, y funciona perfectamente.",bueno
+"El vehículo pintura impecable y motor suave, además luces completamente operativas.",bueno
+"Está en excelente estado: neumáticos nuevos, frenos en excelente estado y mantenimiento reciente.",bueno
+"Todo funciona correctamente, incluyendo sin ruidos extraños, interior limpio, y funciona perfectamente.",bueno
+"Todo funciona correctamente, incluyendo interior limpio, neumáticos nuevos, y aire acondicionado funcional.",bueno
+"El vehículo mantenimiento reciente y pintura impecable, además aire acondicionado funcional.",bueno
+"Todo funciona correctamente, incluyendo motor suave, sin ruidos extraños, y neumáticos nuevos.",bueno
+"Todo funciona correctamente, incluyendo motor suave, cristales impecables, y sin ruidos extraños.",bueno
+"El vehículo carrocería sin abolladuras y cristales impecables, además aire acondicionado funcional.",bueno
+"Está en excelente estado: mantenimiento reciente, funciona perfectamente y neumáticos nuevos.",bueno
+"Todo funciona correctamente, incluyendo frenos en excelente estado, mantenimiento reciente, y interior limpio.",bueno
+"Todo funciona correctamente, incluyendo mantenimiento reciente, luces completamente operativas, y interior limpio.",bueno
+"Está en excelente estado: carrocería sin abolladuras, interior limpio y aire acondicionado funcional.",bueno
+"Todo funciona correctamente, incluyendo neumáticos nuevos, aire acondicionado funcional, y mantenimiento reciente.",bueno
+"Todo funciona correctamente, incluyendo cristales impecables, pintura impecable, y luces completamente operativas.",bueno
+"Está en excelente estado: interior limpio, mantenimiento reciente y pintura impecable.",bueno
+"El vehículo mantenimiento reciente y pintura impecable, además luces completamente operativas.",bueno
+"El vehículo motor suave y neumáticos nuevos, además mantenimiento reciente.",bueno
+"El vehículo pintura impecable y carrocería sin abolladuras, además sin ruidos extraños.",bueno
+"Todo funciona correctamente, incluyendo mantenimiento reciente, luces completamente operativas, y sin ruidos extraños.",bueno
+"Está en excelente estado: funciona perfectamente, interior limpio y pintura impecable.",bueno
+"El vehículo mantenimiento reciente y neumáticos nuevos, además sin ruidos extraños.",bueno
+"Está en excelente estado: interior limpio, aire acondicionado funcional y funciona perfectamente.",bueno
+"El vehículo funciona perfectamente y neumáticos nuevos, además cristales impecables.",bueno
+"El vehículo motor suave y interior limpio, además luces completamente operativas.",bueno
+"Todo funciona correctamente, incluyendo neumáticos nuevos, aire acondicionado funcional, y cristales impecables.",bueno
+"Todo funciona correctamente, incluyendo funciona perfectamente, interior limpio, y neumáticos nuevos.",bueno
+"Está en excelente estado: cristales impecables, frenos en excelente estado y motor suave.",bueno
+"El vehículo sin ruidos extraños y neumáticos nuevos, además motor suave.",bueno
+"Todo funciona correctamente, incluyendo luces completamente operativas, motor suave, y mantenimiento reciente.",bueno
+"Está en excelente estado: funciona perfectamente, aire acondicionado funcional y mantenimiento reciente.",bueno
+"Todo funciona correctamente, incluyendo cristales impecables, neumáticos nuevos, y aire acondicionado funcional.",bueno
+"Todo funciona correctamente, incluyendo frenos en excelente estado, mantenimiento reciente, y carrocería sin abolladuras.",bueno
+"Todo funciona correctamente, incluyendo luces completamente operativas, motor suave, y pintura impecable.",bueno
+"Todo funciona correctamente, incluyendo cristales impecables, frenos en excelente estado, y mantenimiento reciente.",bueno
+"El vehículo mantenimiento reciente y aire acondicionado funcional, además neumáticos nuevos.",bueno
+"Todo funciona correctamente, incluyendo pintura impecable, cristales impecables, y frenos en excelente estado.",bueno
+"Todo funciona correctamente, incluyendo motor suave, frenos en excelente estado, y neumáticos nuevos.",bueno
+"Está en excelente estado: mantenimiento reciente, luces completamente operativas y funciona perfectamente.",bueno
+"El vehículo frenos en excelente estado y mantenimiento reciente, además funciona perfectamente.",bueno
+"El vehículo cristales impecables y neumáticos nuevos, además interior limpio.",bueno
+"Todo funciona correctamente, incluyendo mantenimiento reciente, sin ruidos extraños, y luces completamente operativas.",bueno
+"El vehículo interior limpio y neumáticos nuevos, además cristales impecables.",bueno
+"El vehículo frenos en excelente estado y neumáticos nuevos, además luces completamente operativas.",bueno
+"El vehículo funciona perfectamente y carrocería sin abolladuras, además mantenimiento reciente.",bueno
+"El vehículo interior limpio y motor suave, además pintura impecable.",bueno
+"Está en excelente estado: sin ruidos extraños, carrocería sin abolladuras y aire acondicionado funcional.",bueno
+"El vehículo frenos en excelente estado y funciona perfectamente, además motor suave.",bueno
+"Está en excelente estado: mantenimiento reciente, frenos en excelente estado y funciona perfectamente.",bueno
+"El vehículo neumáticos nuevos y luces completamente operativas, además carrocería sin abolladuras.",bueno
+"Está en excelente estado: aire acondicionado funcional, cristales impecables y interior limpio.",bueno
+"El vehículo pintura impecable y motor suave, además neumáticos nuevos.",bueno
+"Tiene pequeños rayones y aire acondicionado ruidoso, aunque llanta ligeramente desgastada.",neutral
+"El coche aire acondicionado ruidoso, pero aún pequeños rayones. También llanta ligeramente desgastada.",neutral
+"Tiene ventanas con rayones y requiere cambio de aceite, aunque luces traseras sucias.",neutral
+"Presenta parabrisas roto y luces delanteras inoperativas, con signos de que también fuga de aceite.",malo
+"Está en mal estado general: motor con fallas, puertas que no cierran, y luces delanteras inoperativas.",malo
+"El vehículo interior limpio y aire acondicionado funcional, además mantenimiento reciente.",bueno
+"Todo funciona correctamente, incluyendo frenos en excelente estado, interior limpio, y cristales impecables.",bueno
+"Está en excelente estado: interior limpio, frenos en excelente estado y funciona perfectamente.",bueno
+"El vehículo interior limpio y pintura impecable, además sin ruidos extraños.",bueno
+"Está en excelente estado: luces completamente operativas, cristales impecables y sin ruidos extraños.",bueno
+"Está en excelente estado: interior limpio, pintura impecable y frenos en excelente estado.",bueno
+"Está en excelente estado: frenos en excelente estado, neumáticos nuevos y pintura impecable.",bueno
+"El vehículo frenos en excelente estado y motor suave, además cristales impecables.",bueno
+"El vehículo frenos en excelente estado y carrocería sin abolladuras, además interior limpio.",bueno
+"El vehículo pintura impecable y luces completamente operativas, además frenos en excelente estado.",bueno
+"Aunque llanta ligeramente desgastada y aire acondicionado ruidoso, todavía motor hace un leve ruido.",neutral
+"El coche mantenimiento irregular, pero aún requiere cambio de aceite. También interior con algo de desgaste.",neutral
+"Aunque aire acondicionado ruidoso y luces traseras sucias, todavía mantenimiento irregular.",neutral
+"Aunque motor hace un leve ruido y pequeños rayones, todavía puertas algo duras.",neutral
+"Tiene requiere cambio de aceite y mantenimiento irregular, aunque pequeños rayones.",neutral
+"Está en mal estado general: presenta óxido, motor con fallas, y neumáticos lisos.",malo
+"Presenta escape roto y puertas que no cierran, con signos de que también neumáticos lisos.",malo
+"Está en mal estado general: presenta óxido, parabrisas roto, y frenos desgastados.",malo
+"Presenta presenta óxido y frenos desgastados, con signos de que también parabrisas roto.",malo
+"Todo funciona correctamente, incluyendo cristales impecables, pintura impecable, y carrocería sin abolladuras.",bueno
+"El vehículo funciona perfectamente y neumáticos nuevos, además interior limpio.",bueno
+"El vehículo presenta óxido, además parabrisas roto y frenos desgastados.",malo
+"Presenta luces delanteras inoperativas y frenos desgastados, con signos de que también escape roto.",malo
+"Presenta escape roto y presenta óxido, con signos de que también neumáticos lisos.",malo
+"Presenta neumáticos lisos y puertas que no cierran, con signos de que también parabrisas roto.",malo
+"Presenta luces delanteras inoperativas y parabrisas roto, con signos de que también fuga de aceite.",malo
+"El vehículo frenos desgastados, además motor con fallas y puertas que no cierran.",malo
+"Presenta puertas que no cierran y frenos desgastados, con signos de que también batería descargada.",malo
+"Presenta parabrisas roto y puertas que no cierran, con signos de que también fuga de aceite.",malo
+"Está en mal estado general: frenos desgastados, batería descargada, y escape roto.",malo
+"Presenta puertas que no cierran y luces delanteras inoperativas, con signos de que también no arranca.",malo
+"Presenta no arranca y escape roto, con signos de que también luces delanteras inoperativas.",malo
+"El vehículo no arranca, además motor con fallas y ruido excesivo.",malo
+"El vehículo pintura impecable y funciona perfectamente, además luces completamente operativas.",bueno
+"Todo funciona correctamente, incluyendo frenos en excelente estado, cristales impecables, y aire acondicionado funcional.",bueno
+"Está en excelente estado: carrocería sin abolladuras, luces completamente operativas y sin ruidos extraños.",bueno
+"Está en excelente estado: aire acondicionado funcional, luces completamente operativas y cristales impecables.",bueno
+"El vehículo carrocería sin abolladuras y funciona perfectamente, además pintura impecable.",bueno
+"El vehículo funciona perfectamente y frenos en excelente estado, además aire acondicionado funcional.",bueno
+"Todo funciona correctamente, incluyendo aire acondicionado funcional, cristales impecables, y neumáticos nuevos.",bueno
+"Todo funciona correctamente, incluyendo funciona perfectamente, luces completamente operativas, y aire acondicionado funcional.",bueno
+"Todo funciona correctamente, incluyendo frenos en excelente estado, luces completamente operativas, y carrocería sin abolladuras.",bueno
+"Todo funciona correctamente, incluyendo interior limpio, sin ruidos extraños, y cristales impecables.",bueno
+"Está en excelente estado: interior limpio, carrocería sin abolladuras y funciona perfectamente.",bueno
+"Está en excelente estado: funciona perfectamente, sin ruidos extraños y interior limpio.",bueno
+"El vehículo mantenimiento reciente y funciona perfectamente, además carrocería sin abolladuras.",bueno
+"Todo funciona correctamente, incluyendo cristales impecables, mantenimiento reciente, y luces completamente operativas.",bueno
+"Está en excelente estado: motor suave, funciona perfectamente y mantenimiento reciente.",bueno
