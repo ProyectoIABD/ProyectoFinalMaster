@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Resultado de Predicción</title>
+  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+</head>
+<body class="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 py-12 px-4">
+  <div class="max-w-4xl mx-auto">
+    <button onclick="window.location.href='/'" class="flex items-center gap-2 border px-4 py-2 rounded-md border-gray-300 bg-white hover:bg-gray-50 text-sm mb-6">
+      ← Nueva Predicción
+    </button>
+
+    <div class="shadow-xl border border-green-200 rounded-lg overflow-hidden mb-8">
+      <div class="bg-green-50 p-4">
+        <h2 class="flex items-center gap-2 text-green-800 text-lg font-semibold">
+          Precio Estimado
+        </h2>
+        <p class="text-sm text-gray-600">Predicción basada en machine learning</p>
+      </div>
+      <div class="p-6 text-center">
+        <div class="text-4xl font-bold text-green-600 mb-2">€{{ price }}</div>
+        <p class="text-gray-600">Estimación basada en los datos proporcionados</p>
+      </div>
+    </div>
+
+    <div class="shadow-xl rounded-lg overflow-hidden mb-8">
+      <div class="p-4">
+        <h2 class="text-lg font-semibold mb-4">Imagen del Vehículo</h2>
+        <img src="{{ image_path }}" alt="Vehículo" class="w-full h-48 object-cover rounded-lg" />
+      </div>
+    </div>
+
+    <div class="shadow-xl rounded-lg overflow-hidden border p-6 mb-8">
+      <h2 class="text-lg font-semibold mb-4">Detalles del Vehículo</h2>
+
+      <div class="mb-4">
+        <h3 class="font-medium mb-1 flex items-center gap-2">
+          🚘 Tipo de Vehículo
+        </h3>
+        <span class="bg-gray-200 px-3 py-1 rounded-full text-sm">{{ car_type }}</span>
+      </div>
+
+      <div class="mb-4">
+        <h3 class="font-medium mb-1 flex items-center gap-2">
+          📅 Año
+        </h3>
+        <p>{{ year }}</p>
+      </div>
+
+      <div class="mb-4">
+        <h3 class="font-medium mb-1 flex items-center gap-2">
+          📏 Kilómetros
+        </h3>
+        <p>{{ km }} km</p>
+      </div>
+
+      <div>
+        <h3 class="font-medium mb-1 flex items-center gap-2">
+          📝 Descripción
+        </h3>
+        <p class="bg-gray-50 p-3 rounded-lg">{{ description }}</p>
+      </div>
+    </div>
+
+    <div class="shadow-xl mt-6 border border-blue-200 rounded-lg overflow-hidden">
+        <div class="bg-blue-50 p-4">
+            <h2 class="text-blue-800 font-semibold">Información Importante</h2>
+        </div>
+        <div class="p-6 text-gray-600 space-y-2">
+            <ul class="list-disc list-inside">
+                <li>Esta predicción es una estimación basada en datos históricos del mercado</li>
+                <li>El precio real puede variar según el estado específico del vehículo</li>
+                <li>Se recomienda consultar con un experto para una valoración más precisa</li>
+                <li>Los factores como ubicación y demanda local pueden afectar el precio</li>
+            </ul>
+        </div>
+    </div>
+  </div>
+</body>
+</html>
