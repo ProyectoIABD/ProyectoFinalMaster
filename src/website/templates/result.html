@@ -12,6 +12,7 @@
       ← Nueva Predicción
     </button>
 
+    <!-- PRECIO ESTIMADO -->
     <div class="shadow-xl border border-green-200 rounded-lg overflow-hidden mb-8">
       <div class="bg-green-50 p-4">
         <h2 class="flex items-center gap-2 text-green-800 text-lg font-semibold">
@@ -25,6 +26,7 @@
       </div>
     </div>
 
+    <!-- IMAGEN -->
     <div class="shadow-xl rounded-lg overflow-hidden mb-8">
       <div class="p-4">
         <h2 class="text-lg font-semibold mb-4">Imagen del Vehículo</h2>
@@ -32,50 +34,54 @@
       </div>
     </div>
 
+    <!-- DETALLES -->
     <div class="shadow-xl rounded-lg overflow-hidden border p-6 mb-8">
       <h2 class="text-lg font-semibold mb-4">Detalles del Vehículo</h2>
 
       <div class="mb-4">
-        <h3 class="font-medium mb-1 flex items-center gap-2">
-          🚘 Tipo de Vehículo
-        </h3>
+        <h3 class="font-medium mb-1 flex items-center gap-2">🚘 Tipo de Vehículo</h3>
         <span class="bg-gray-200 px-3 py-1 rounded-full text-sm">{{ car_type }}</span>
       </div>
 
       <div class="mb-4">
-        <h3 class="font-medium mb-1 flex items-center gap-2">
-          📅 Año
-        </h3>
+        <h3 class="font-medium mb-1 flex items-center gap-2">📅 Año</h3>
         <p>{{ year }}</p>
       </div>
 
       <div class="mb-4">
-        <h3 class="font-medium mb-1 flex items-center gap-2">
-          📏 Kilómetros
-        </h3>
+        <h3 class="font-medium mb-1 flex items-center gap-2">📏 Kilómetros</h3>
         <p>{{ km }} km</p>
       </div>
 
+      <div class="mb-4">
+        <h3 class="font-medium mb-1 flex items-center gap-2">🎨 Color Estimado</h3>
+        <span class="bg-indigo-100 text-indigo-800 px-3 py-1 rounded-full text-sm">Código: {{ color }}</span>
+      </div>
+
+      <div class="mb-4">
+        <h3 class="font-medium mb-1 flex items-center gap-2">🧠 Estado Estimado (según descripción)</h3>
+        <span class="bg-yellow-100 text-yellow-800 px-3 py-1 rounded-full text-sm capitalize">{{ estado }}</span>
+      </div>
+
       <div>
-        <h3 class="font-medium mb-1 flex items-center gap-2">
-          📝 Descripción
-        </h3>
+        <h3 class="font-medium mb-1 flex items-center gap-2">📝 Descripción</h3>
         <p class="bg-gray-50 p-3 rounded-lg">{{ description }}</p>
       </div>
     </div>
 
+    <!-- INFO EXTRA -->
     <div class="shadow-xl mt-6 border border-blue-200 rounded-lg overflow-hidden">
-        <div class="bg-blue-50 p-4">
-            <h2 class="text-blue-800 font-semibold">Información Importante</h2>
-        </div>
-        <div class="p-6 text-gray-600 space-y-2">
-            <ul class="list-disc list-inside">
-                <li>Esta predicción es una estimación basada en datos históricos del mercado</li>
-                <li>El precio real puede variar según el estado específico del vehículo</li>
-                <li>Se recomienda consultar con un experto para una valoración más precisa</li>
-                <li>Los factores como ubicación y demanda local pueden afectar el precio</li>
-            </ul>
-        </div>
+      <div class="bg-blue-50 p-4">
+        <h2 class="text-blue-800 font-semibold">Información Importante</h2>
+      </div>
+      <div class="p-6 text-gray-600 space-y-2">
+        <ul class="list-disc list-inside">
+          <li>Esta predicción es una estimación basada en datos históricos del mercado</li>
+          <li>El precio real puede variar según el estado específico del vehículo</li>
+          <li>Se recomienda consultar con un experto para una valoración más precisa</li>
+          <li>Los factores como ubicación y demanda local pueden afectar el precio</li>
+        </ul>
+      </div>
     </div>
   </div>
 </body>
