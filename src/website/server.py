@@ -7,7 +7,7 @@ from sklearn.preprocessing import LabelEncoder
 from sentence_transformers import SentenceTransformer
 import torch
 import torch.nn as nn
-from torchvision import transforms
+from torchvision import transforms, datasets
 
 from PIL import Image
 import pandas as pd
@@ -21,11 +21,15 @@ PATH_MODEL_TEXT = f'{PATH_MODELS}/modelo_texto.pkl'
 PATH_MODEL_PRICE = f'{PATH_MODELS}/xgb.pkl'
 PATH_ENCODER_TYPE = f'{PATH_MODELS}/le_car_type.pkl'
 
-IMG_SIZE = 128
-
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = 'static/uploads'
 app.config['MAX_CONTENT_LENGTH'] = 16 * 1024 * 1024  # 16MB
+
+
+# === Configuración IMAGENES ===
+PATH = "../../data/raw/VCoR/"
+TRAIN_PATH = f"{PATH}/train"
+IMG_SIZE = 128
 
 # CNN
 class CarCNN(nn.Module):
@@ -48,6 +52,14 @@ class CarCNN(nn.Module):
         x = self.features(x)
         x = self.classifier(x)
         return x
+    
+transform = transforms.Compose([
+    transforms.Resize((IMG_SIZE, IMG_SIZE)),
+    transforms.RandomHorizontalFlip(),
+    transforms.ToTensor(),
+    transforms.Normalize([0.5]*3, [0.5]*3)  # Normalización entre -1 y 1
+])
+train_dataset = datasets.ImageFolder(TRAIN_PATH, transform=transform)
 
 # Modelos y utilidades
 price_model = joblib.load(PATH_MODEL_PRICE)
@@ -61,15 +73,12 @@ sentence_transformer = SentenceTransformer('all-MiniLM-L6-v2')
 
 def predict_color(image_path, model):
     img = Image.open(image_path).convert("RGB")
-    transform = transforms.Compose([
-        transforms.Resize((IMG_SIZE, IMG_SIZE)),
-        transforms.ToTensor()
-    ])
     img_tensor = transform(img).unsqueeze(0)
     model.eval()
     with torch.no_grad():
         pred = model(img_tensor)
-        return torch.argmax(pred, dim=1).item()
+        color = torch.argmax(pred, dim=1).item()
+        return color, train_dataset.classes[color]
 
 def predict_estado(description, model, transformer):
     embedding = transformer.encode([description])
@@ -124,7 +133,7 @@ def predict():
     estado_dict = encode_estado(estado)
     car_type_encoded = encode_car_type(car_type, le_car_type)
 
-    input_features = construir_input(year, km, color, car_type_encoded, estado_dict)
+    input_features = construir_input(year, km, color[0], car_type_encoded, estado_dict)
     predicted_price = price_model.predict(input_features)[0]
 
     return render_template(
@@ -135,7 +144,7 @@ def predict():
         km=km,
         description=description,
         estado=estado,
-        color=color,
+        color=color[1],
         image_path=filepath
     )
 
